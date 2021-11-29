@@ -96,7 +96,7 @@ When we create an object of rectangle class say object r, An object of rectangle
 On creation of object, a function was there in the compiler which constructed the object.
 Every class will have a constructor. Compiler provided built-in constuctor is called as default constructor.
 Can we write our own constructor ? Yes, we can. 
-There are 3 different types of user defined constructor : 
+``**There are 3 different types of user defined constructor**``: 
 1. Non-parameterized constructor
 2. Parameterized constructor
 3. Copy Constuctor
